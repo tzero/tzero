@@ -5,6 +5,10 @@ Sandbox
 
 # Markdown
 
+- [Here's a long section title with punctuation! Right?](#heres-a-long-section-title-with-punctuation-right)
+- [Another long section name, just to see what that looks like: the movie.](#another-long-section-name-just-to-see-what-that-looks-like-the-movie)
+   - [A subsection.](#a-subsection)
+
 Tests.
 
 ## Here's a long section title with punctuation! Right?
