@@ -28,6 +28,8 @@ What about lists, though?
 - What if I do a carriage return and then neglect to indent
 the text on the next line?
 
+More text.
+
 1. **I**
 2. *don't*
 3. ~~know~~
@@ -35,3 +37,11 @@ the text on the next line?
 ## Another long section name, just to see what that looks like: the movie.
 
 ### A subsection.
+
+ 1. something
+ 1. _something_ else
+ 1. more **_things_**
+    +  nested
+    +  items
+       1. Another one
+       1. Yet another one  
